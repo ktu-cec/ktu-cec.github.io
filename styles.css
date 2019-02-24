@@ -28,9 +28,7 @@ html {
 }
 
 body {
-    background-image: url("content/bck.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: antiquewhite;
 }
 
 * {
@@ -57,6 +55,7 @@ body {
 }
 
 .button {
+    margin-top: 10px;
     border-radius: 10px;
     display: block;
     background-color: #29a8ab;
